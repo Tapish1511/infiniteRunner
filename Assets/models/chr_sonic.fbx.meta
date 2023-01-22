@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 716886ccc544d724099f10b104bae4b8
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 571934831017217762
+    second: sn_run_loop
+  - first:
+      74: 1071119101902484440
+    second: sn_boost_loop
+  - first:
+      74: 3879276130835553568
+    second: sn_ball_loop
+  - first:
+      74: 6599153105602783028
+    second: sn_jump_fall_loop
+  - first:
+      74: -2199114583398640131
+    second: sn_stumble_run_loop
+  - first:
+      74: 246074257137347686
+    second: sn_springjump_loop
+  - first:
+      74: 722160862762597174
+    second: sn_damage_miss_loop
+  - first:
+      74: -388533314668412426
+    second: sn_landing
+  - first:
+      74: -930190813682792225
+    second: sn_ph_laser_start
+  - first:
+      74: 5934460510028624946
+    second: sn_ph_spin_start
+  - first:
+      74: 8788023461762335738
+    second: sn_ph_astero_start
+  - first:
+      74: -1816847182793885087
+    second: sn_dashring_loop
+  - first:
+      74: 8772842623813684267
+    second: sn_jump_trick
+  - first:
+      74: -2637308195353621694
+    second: sn_jump_trick_03
+  - first:
+      74: -2717048299518055711
+    second: sn_jump_trick_02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chr_sonic_body
+    second: {fileID: 2100000, guid: 24ffddd419cfad34c8db7d850d4e2073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chr_sonic_eye_l
+    second: {fileID: 2100000, guid: 587c9b8d58a54864ba7b038d04380219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chr_sonic_eye_r
+    second: {fileID: 2100000, guid: 1e5eb9eb52e893e4b9f5c823d382cf9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chr_sonic_metal
+    second: {fileID: 2100000, guid: 49e82fb542fef8e49b9bbf06febc2709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chr_sonic_mouth
+    second: {fileID: 2100000, guid: 75106df11659ca84fb88c08b79e81f61, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
